@@ -48,6 +48,7 @@ Hey there! I'm **Karthik** — a passionate and results-driven **Data Scientist*
 ### 🌐 Frameworks & APIs
 ![DMVC Framework](https://img.shields.io/badge/DMVC%20Framework-EE1F35?style=for-the-badge&logo=delphi&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
 
