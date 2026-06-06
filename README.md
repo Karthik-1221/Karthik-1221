@@ -2,7 +2,7 @@
 
 # Hi there, I'm Karthik Boodidha! 👋🏽
 
-### 🚀 Data Scientist | Machine Learning · Data Analysis · Python · SQL · Delphi (DMVC Framework)
+###  Data Scientist | Machine Learning · Data Analysis · Python · SQL 
 
 📍 Greater Hyderabad Area, India
 
@@ -73,7 +73,7 @@ Hey there! I'm **Karthik** — a passionate and results-driven **Data Scientist*
 | Degree | Institution | Year |
 |--------|------------|------|
 | 🎓 **MSc — Data Science** | University College of Science, Saifabad | Nov 2023 – Aug 2025 |
-| 🎓 **Bachelor's — Data Science** | Satavahana University, Karimnagar | 2023 |
+| 🎓 **Bachelor's — Data Science** | Satavahana University, Karimnagar | 2020 - 2023 |
 
 ---
 
@@ -83,7 +83,15 @@ Hey there! I'm **Karthik** — a passionate and results-driven **Data Scientist*
 |---|--------------|--------|
 | 🥇 | **Python: Beginner to Advanced for Data Professionals** | Codebasics |
 | 🥇 | **Gen AI to Agentic AI with Business Projects** | Codebasics |
-| 🥇 | **5-Day AI Agents Intensive Course** | Google |
+| 🥇 | **5-Day AI Agents Intensive Course** | Google x Kaggle |
+| 🥇 | **Certificate of completion: Claude 101** | Anthropic |
+| 🥇 | **Certificate of completion: Claude code 101** | Anthropic |
+| 🥇 | **Natural Language Processing** | Codebasics |
+| 🥇 | **Deep Learning: Beginner to Advanced** | Codebasics |
+| 🥇 | **Master Machine Learning for Data Science** | Codebasics |
+| 🥇 | **Math and Statistics For AI, Data Science** | Codebasics |
+| 🥇 | **SQL for Data Science** | Codebasics |
+
 
 ---
 
