@@ -95,16 +95,6 @@ Hey there! I'm **Karthik** — a passionate and results-driven **Data Scientist*
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Karthik-1221&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Karthik's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik-1221&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Karthik-1221&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karthik-1221&theme=tokyonight" alt="Profile Summary" />
-</div>
-
----
 
 ## 📺 Latest from My YouTube Channel
 
