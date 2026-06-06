@@ -43,7 +43,7 @@ Hey there! I'm **Karthik** — a passionate and results-driven **Data Scientist*
 ### 🗄️ Databases & Tools
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Advantage DB](https://img.shields.io/badge/Advantage%20Database%20Server-00599C?style=for-the-badge&logo=databricks&logoColor=white)
-![ADO](https://img.shields.io/badge/ActiveX%20Data%20Objects-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
 
 ### 🌐 Frameworks & APIs
 ![DMVC Framework](https://img.shields.io/badge/DMVC%20Framework-EE1F35?style=for-the-badge&logo=delphi&logoColor=white)
