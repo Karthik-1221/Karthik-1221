@@ -10,6 +10,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Karthik-1221)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=codeforces&logoColor=white)](https://codebasics.io/portfolio/Karthik-Boodidha)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@learndatasciencewithkarthik?si=BBi0N3bn-q5ICJOI)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/boodidhakarthik)
 
 </div>
 
@@ -113,6 +114,7 @@ I'm always open to new ideas, collaborations, and opportunities to create someth
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthik-boodidha)
 [![Portfolio](https://img.shields.io/badge/View%20My%20Portfolio-FF6B35?style=for-the-badge&logo=codeforces&logoColor=white)](https://codebasics.io/portfolio/Karthik-Boodidha)
 [![Email](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:boodidhakarthik96@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Follow%20on%20Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/boodidhakarthik)
 
 ---
 
